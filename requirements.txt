@@ -1,0 +1,10 @@
+pynput
+sounddevice
+numpy
+scipy
+google-generativeai
+pyperclip
+winotify
+pywin32
+Pillow
+# PyInstaller не нужно добавлять в requirements.txt, его ставят отдельно для сборки
